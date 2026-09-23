@@ -16,6 +16,6 @@ A custom HTML/CSS/JavaScript portfolio website.
 6. Save and wait for GitHub Pages to publish the site.
 
 ## Contact
-Email: ianj200@gmail.com
+Email: ianj8200@gmail.com
 GitHub: https://github.com/simple-debug
-LinkedIn: https://www.linkedin.com/in/simple-debug/
+LinkedIn: https://www.linkedin.com/in/Ian Wangari/
